@@ -1,0 +1,12 @@
+Source: ros-kinetic-care-o-bot-simulation
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-care-o-bot-simulation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-cob-bringup-sim, ros-kinetic-cob-manipulation, ros-kinetic-cob-navigation
+Description: The care-o-bot-simulation meta-package
