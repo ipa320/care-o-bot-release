@@ -1,3 +1,30 @@
+## care_o_bot (kinetic) - 0.7.8-1
+
+The packages in the `care_o_bot` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release care_o_bot --rosdistro kinetic -e` on `Mon, 23 Mar 2020 08:36:07 -0000`
+
+These packages were released:
+- `care_o_bot`
+- `care_o_bot_desktop`
+- `care_o_bot_robot`
+- `care_o_bot_simulation`
+
+Version of package(s) in repository `care_o_bot`:
+
+- upstream repository: https://github.com/ipa320/care-o-bot.git
+- release repository: https://github.com/ipa320/care-o-bot-release.git
+- rosdistro version: `0.6.7-0`
+- old version: `0.6.7-0`
+- new version: `0.7.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## care_o_bot (kinetic) - 0.6.7-0
 
 The packages in the `care_o_bot` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release care_o_bot --rosdistro kinetic` on `Thu, 14 Mar 2019 12:57:31 -0000`
