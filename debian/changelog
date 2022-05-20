@@ -1,0 +1,75 @@
+ros-noetic-care-o-bot-simulation (0.7.9-1focal) focal; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Thu, 19 May 2022 22:00:00 -0000
+
+ros-noetic-care-o-bot-simulation (0.7.8-1focal) focal; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Tue, 17 Mar 2020 23:00:00 -0000
+
+ros-noetic-care-o-bot-simulation (0.6.7-1focal) focal; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 13 Mar 2019 23:00:00 -0000
+
+ros-noetic-care-o-bot-simulation (0.6.6-1focal) focal; urgency=high
+
+  * Merge pull request #44 <https://github.com/ipa320/care-o-bot/issues/44> from ipa-fxm/APACHE_license
+    use license apache 2.0
+  * use license apache 2.0
+  * Merge pull request #23 <https://github.com/ipa320/care-o-bot/issues/23> from ipa320/indigo_release_candidate
+    Updates from latest release
+  * Contributors: Felix Messmer, Florian Weisshardt, ipa-uhr-mk
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Sat, 06 Jan 2018 23:00:00 -0000
+
+ros-noetic-care-o-bot-simulation (0.6.5-1focal) focal; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Thu, 31 Mar 2016 22:00:00 -0000
+
+ros-noetic-care-o-bot-simulation (0.6.4-1focal) focal; urgency=high
+
+  * simplify depedendencies and add dependency to navigation and manipulation
+  * Migration to package format 2
+  * Contributors: Florian Weisshardt, ipa-nhg
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Thu, 31 Mar 2016 22:00:00 -0000
+
+ros-noetic-care-o-bot-simulation (0.6.3-1focal) focal; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Tue, 06 Jan 2015 23:00:00 -0000
+
+ros-noetic-care-o-bot-simulation (0.6.2-1focal) focal; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 15 Oct 2014 22:00:00 -0000
+
+ros-noetic-care-o-bot-simulation (0.6.1-1focal) focal; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 15 Oct 2014 22:00:00 -0000
+
+ros-noetic-care-o-bot-simulation (0.6.0-1focal) focal; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 27 Aug 2014 22:00:00 -0000
+
+ros-noetic-care-o-bot-simulation (0.5.0-1focal) focal; urgency=high
+
+  * add meta packages
+  * Contributors: Florian Weisshardt
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Sun, 23 Mar 2014 23:00:00 -0000
+
+
