@@ -1,0 +1,12 @@
+Source: ros-noetic-care-o-bot-robot
+Section: misc
+Priority: optional
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-care-o-bot-robot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-cob-bringup, ros-noetic-cob-manipulation, ros-noetic-cob-navigation
+Description: The care-o-bot-robot meta-package
