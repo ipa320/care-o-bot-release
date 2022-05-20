@@ -2,6 +2,11 @@
 Changelog for package care_o_bot_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.9 (2022-05-20)
+------------------
+* move tool dependencies
+* Contributors: fmessmer
+
 0.7.8 (2020-03-18)
 ------------------
 
