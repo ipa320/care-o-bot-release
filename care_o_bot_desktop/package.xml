@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>care_o_bot_desktop</name>
-  <version>0.7.8</version>
+  <version>0.7.9</version>
   <description>The care-o-bot-desktop meta-package</description>
   <maintainer email="fmw@ipa.fhg.de">Florian Weisshardt</maintainer>
   <license>Apache 2.0</license>
@@ -26,6 +26,14 @@
   <exec_depend>gimp</exec_depend>
   <exec_depend>blender</exec_depend>
   <exec_depend>disper</exec_depend>
+
+  <exec_depend>htop</exec_depend>
+  <exec_depend>openssh-server</exec_depend>
+  <exec_depend>python-wstool</exec_depend>
+  <exec_depend>robot_upstart</exec_depend>
+  <exec_depend>tmux</exec_depend>
+  <exec_depend>tree</exec_depend>
+  <exec_depend>vim</exec_depend>
 
   <exec_depend>desktop_full</exec_depend>
   <exec_depend>python-bloom</exec_depend>
