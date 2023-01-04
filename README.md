@@ -1,3 +1,30 @@
+## care-o-bot (noetic) - 0.7.10-1
+
+The packages in the `care-o-bot` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --ros-distro noetic care-o-bot` on `Wed, 04 Jan 2023 11:46:39 -0000`
+
+These packages were released:
+- `care_o_bot`
+- `care_o_bot_desktop`
+- `care_o_bot_robot`
+- `care_o_bot_simulation`
+
+Version of package(s) in repository `care-o-bot`:
+
+- upstream repository: https://github.com/ipa320/care-o-bot.git
+- release repository: https://github.com/ipa320/care-o-bot-release.git
+- rosdistro version: `0.7.9-1`
+- old version: `0.7.9-1`
+- new version: `0.7.10-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## care-o-bot (noetic) - 0.7.9-1
 
 The packages in the `care-o-bot` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --ros-distro noetic care-o-bot` on `Fri, 20 May 2022 14:48:40 -0000`
